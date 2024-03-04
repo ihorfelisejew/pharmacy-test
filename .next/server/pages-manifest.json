@@ -1,0 +1,11 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/api/medicineInPharmacy": "pages/api/medicineInPharmacy.js",
+  "/": "pages/index.js",
+  "/api/clients": "pages/api/clients.js",
+  "/api/createOrder": "pages/api/createOrder.js",
+  "/api/pharmacies": "pages/api/pharmacies.js",
+  "/api/addOrderProducts": "pages/api/addOrderProducts.js"
+}
